@@ -1,6 +1,9 @@
 # En: Skillbox_JavaScript-module-6-loops_and_arrays_task-1
 # Ru: Skillbox_JavaScript-модуль-6-циклы_и_массивы_задание-1
 
+#### En: The task has been solved in several ways — there are 3 project versions in the repository.
+#### Ru: Задача решена несколькими способами - в репозитории 3 проекта
+
 #### Please give this project a star ⭐ if you found it interesting
 #### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
 
